@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img-pubsub-console", "img-pubsub-console", "{88AF6002-516E-4021-ACE3-74E855C49560}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Pictures\redis-pubsub.PNG = ..\..\..\..\Pictures\redis-pubsub.PNG
+		..\..\..\..\Pictures\pubsub-redis.PNG = ..\..\..\..\Pictures\pubsub-redis.PNG
 	EndProjectSection
 EndProject
 Global
