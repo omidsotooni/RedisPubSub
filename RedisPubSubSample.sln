@@ -3,14 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{6A1D37D8-D0A9-4E1B-AA17-5FDED32D090D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subscriber", "Subscriber\Subscriber.csproj", "{6A1D37D8-D0A9-4E1B-AA17-5FDED32D090D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{5CAAD9D1-3741-479F-87ED-7DFE3542CC54}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img-pubsub-console", "img-pubsub-console", "{88AF6002-516E-4021-ACE3-74E855C49560}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Pictures\redis-pubsub.PNG = ..\..\..\..\Pictures\redis-pubsub.PNG
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Publisher", "Publisher\Publisher.csproj", "{5CAAD9D1-3741-479F-87ED-7DFE3542CC54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
